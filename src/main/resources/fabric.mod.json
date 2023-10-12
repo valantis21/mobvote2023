@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "mobvote2023",
+  "version": "${version}",
+
+  "name": "mobvote2023",
+  "description": "",
+  "authors": [],
+  "contact": {},
+
+  "license": "All-Rights-Reserved",
+  "icon": "assets/mobvote2023/icon.png",
+
+  "environment": "*",
+  "entrypoints": {},
+
+
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+        "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
